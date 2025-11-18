@@ -168,4 +168,4 @@ Dibangun dengan Python dan inspirasi mesin slot klasik.
 
 ------------------------------------------------------------------------
 
-### 🎰 Selamat Berputar! 🍀
+### 🎰 Selamat Memutar Keberuntungan! 🍀
