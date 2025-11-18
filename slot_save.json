@@ -1,0 +1,41 @@
+{
+  "balance": 1009,
+  "current_bet": 1,
+  "history": [
+    {
+      "bet": 1,
+      "result": "\ud83c\udf52 \ud83c\udf52 \ud83d\udd14",
+      "payout": 1,
+      "note": "\u001b[92mDua \ud83c\udf52! Menang kecil (1.5x)\u001b[0m"
+    },
+    {
+      "bet": 1,
+      "result": "\ud83d\udd14 \ud83d\udd14 \ud83d\udd14",
+      "payout": 10,
+      "note": "\u001b[92mTiga \ud83d\udd14! \u001b[1mJACKPOT! (10x)\u001b[0m"
+    },
+    {
+      "bet": 1,
+      "result": "7 \ud83d\udd14 \ud83d\udd14",
+      "payout": 2,
+      "note": "\u001b[92mDua \ud83d\udd14! Menang kecil (2x)\u001b[0m"
+    },
+    {
+      "bet": 1,
+      "result": "7 \ud83d\udd14 \ud83c\udf52",
+      "payout": 0,
+      "note": "\u001b[91mTidak ada yang cocok\u001b[0m"
+    }
+  ],
+  "stats": {
+    "total_spins": 4,
+    "total_bet": 4,
+    "total_won": 13,
+    "biggest_win": 10,
+    "current_streak": 0,
+    "max_streak": 3,
+    "last_save": "2025-11-16 17:34:29"
+  },
+  "timestamp": "2025-11-16 18:23:33",
+  "version": "1.2"
+}
